@@ -1,32 +1,39 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, {Component} from 'react';
 import './App.css';
 
 
 class App extends Component {
   constructor() {
     super();
-  }
-}
 
-this.state = {
+ this.state = {
   monsters: [
     {
-      name: 'Frankenstein'
-    },{
-      name: 'Dracula'
-    }, {
-      name: 'Edward Cullen'
-    }
-  ]
-}
+      name: 'Frankenstein',
+      id: 'first'
+    },
+    {
+      name: 'Dracula',
+      id: 'second',
+    },
+    {
+      name: 'Edward Cullen',
+      id: 'third'
+      }
+    ]
+  };
+  }
+
 
 render() {
   return (
     <div className="App">
-      {this.state.monsters.map(monster => <h1>{monster.name}</h1>)}
+      {this.state.monsters.map(monster => (
+        <h1 key={monster.id}> {monster.name} </h1>
+      ))}
     </div>
   );
+}
 }
 
 export default App;
