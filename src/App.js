@@ -20,6 +20,7 @@ componentDidMount(){
 }
 
 render() {
+  const { monsters, searchField } = this.state; 
   return (
     <div className="App">
     <input
