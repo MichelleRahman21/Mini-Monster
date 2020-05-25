@@ -31,7 +31,7 @@ render() {
     <div className="App">
       <SearchBox
       placeholder='search monsters'
-      handleChange={this.state.handleChange}/>
+      handleChange={this.handleChange}/>
       <CardList monsters={filteredMonsters}>
       </CardList>
     </div>
