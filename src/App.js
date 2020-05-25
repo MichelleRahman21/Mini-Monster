@@ -19,6 +19,9 @@ componentDidMount(){
   .then(response => response.json())
   .then(users => this.setState({ monsters: users}));
 }
+handleChange = e => {
+  this.setState({ searchField: e.target.value});
+}
 
 render() {
   const { monsters, searchField } = this.state;
@@ -28,9 +31,7 @@ render() {
     <div className="App">
       <SearchBox
       placeholder='search monsters'
-      handleChange={e =>
-        this.setState({searchField: e.target.value})}
-      />
+      handleChange={this.state.handleChange}/>
       <CardList monsters={filteredMonsters}>
       </CardList>
     </div>
