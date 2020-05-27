@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aa06570cf4495782b1708948c7ce8768",
+    "revision": "00b3f8c3478c638682daf60b48908f6b",
     "url": "/Mini-Monster/index.html"
   },
   {
-    "revision": "c6db6ea0ff318c73dfe8",
+    "revision": "c94dded8a490c4718f1b",
     "url": "/Mini-Monster/static/css/main.a237b0bb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mini-Monster/static/js/2.dc5322e6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c6db6ea0ff318c73dfe8",
-    "url": "/Mini-Monster/static/js/main.5bb0c736.chunk.js"
+    "revision": "c94dded8a490c4718f1b",
+    "url": "/Mini-Monster/static/js/main.a409aa97.chunk.js"
   },
   {
     "revision": "29f5e7cf871d9858269d",

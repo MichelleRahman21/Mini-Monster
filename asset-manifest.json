@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Mini-Monster/static/css/main.a237b0bb.chunk.css",
-    "main.js": "/Mini-Monster/static/js/main.5bb0c736.chunk.js",
-    "main.js.map": "/Mini-Monster/static/js/main.5bb0c736.chunk.js.map",
+    "main.js": "/Mini-Monster/static/js/main.a409aa97.chunk.js",
+    "main.js.map": "/Mini-Monster/static/js/main.a409aa97.chunk.js.map",
     "runtime-main.js": "/Mini-Monster/static/js/runtime-main.78533253.js",
     "runtime-main.js.map": "/Mini-Monster/static/js/runtime-main.78533253.js.map",
     "static/js/2.dc5322e6.chunk.js": "/Mini-Monster/static/js/2.dc5322e6.chunk.js",
     "static/js/2.dc5322e6.chunk.js.map": "/Mini-Monster/static/js/2.dc5322e6.chunk.js.map",
     "index.html": "/Mini-Monster/index.html",
-    "precache-manifest.48ba41e77e9f5dfb5d6b511bcba35310.js": "/Mini-Monster/precache-manifest.48ba41e77e9f5dfb5d6b511bcba35310.js",
+    "precache-manifest.08879bce20dc14dae7fe1731fac5eb9c.js": "/Mini-Monster/precache-manifest.08879bce20dc14dae7fe1731fac5eb9c.js",
     "service-worker.js": "/Mini-Monster/service-worker.js",
     "static/css/main.a237b0bb.chunk.css.map": "/Mini-Monster/static/css/main.a237b0bb.chunk.css.map",
     "static/js/2.dc5322e6.chunk.js.LICENSE.txt": "/Mini-Monster/static/js/2.dc5322e6.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.78533253.js",
     "static/js/2.dc5322e6.chunk.js",
     "static/css/main.a237b0bb.chunk.css",
-    "static/js/main.5bb0c736.chunk.js"
+    "static/js/main.a409aa97.chunk.js"
   ]
 }
