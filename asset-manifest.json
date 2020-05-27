@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Mini-Monster/static/css/main.a237b0bb.chunk.css",
-    "main.js": "/Mini-Monster/static/js/main.d8770586.chunk.js",
-    "main.js.map": "/Mini-Monster/static/js/main.d8770586.chunk.js.map",
-    "runtime-main.js": "/Mini-Monster/static/js/runtime-main.14cadcac.js",
-    "runtime-main.js.map": "/Mini-Monster/static/js/runtime-main.14cadcac.js.map",
-    "static/js/2.c8835742.chunk.js": "/Mini-Monster/static/js/2.c8835742.chunk.js",
-    "static/js/2.c8835742.chunk.js.map": "/Mini-Monster/static/js/2.c8835742.chunk.js.map",
+    "main.js": "/Mini-Monster/static/js/main.a409aa97.chunk.js",
+    "main.js.map": "/Mini-Monster/static/js/main.a409aa97.chunk.js.map",
+    "runtime-main.js": "/Mini-Monster/static/js/runtime-main.78533253.js",
+    "runtime-main.js.map": "/Mini-Monster/static/js/runtime-main.78533253.js.map",
+    "static/js/2.dc5322e6.chunk.js": "/Mini-Monster/static/js/2.dc5322e6.chunk.js",
+    "static/js/2.dc5322e6.chunk.js.map": "/Mini-Monster/static/js/2.dc5322e6.chunk.js.map",
     "index.html": "/Mini-Monster/index.html",
-    "precache-manifest.a936bafc2fd87740d9218c7b9a56be9f.js": "/Mini-Monster/precache-manifest.a936bafc2fd87740d9218c7b9a56be9f.js",
+    "precache-manifest.08879bce20dc14dae7fe1731fac5eb9c.js": "/Mini-Monster/precache-manifest.08879bce20dc14dae7fe1731fac5eb9c.js",
     "service-worker.js": "/Mini-Monster/service-worker.js",
     "static/css/main.a237b0bb.chunk.css.map": "/Mini-Monster/static/css/main.a237b0bb.chunk.css.map",
-    "static/js/2.c8835742.chunk.js.LICENSE.txt": "/Mini-Monster/static/js/2.c8835742.chunk.js.LICENSE.txt"
+    "static/js/2.dc5322e6.chunk.js.LICENSE.txt": "/Mini-Monster/static/js/2.dc5322e6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.14cadcac.js",
-    "static/js/2.c8835742.chunk.js",
+    "static/js/runtime-main.78533253.js",
+    "static/js/2.dc5322e6.chunk.js",
     "static/css/main.a237b0bb.chunk.css",
-    "static/js/main.d8770586.chunk.js"
+    "static/js/main.a409aa97.chunk.js"
   ]
 }
