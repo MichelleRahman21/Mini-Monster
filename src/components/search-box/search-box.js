@@ -1,12 +1,13 @@
+
 import React from 'react';
 
-import './search-box.css';
+import './search-box';
 
-export const SearchBox = ({ placeholder, handleChange }) => (
-  <input
-  className='search'
+export const SearchBox = props => (
+<input
+  className='search-box'
   type='search'
-  placeholder={placeholder}
-  onChange={handleChange}
-    />
-)
+  placeholder='search monsters'
+  onChange={props.onSearchChange}
+/>
+);
